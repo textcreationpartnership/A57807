@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen at White-Hall, on the 28th of December, 1690 by George Royse ... ; printed by the King's special command.</title>
+            <author>Royse, George, 1654 or 5-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57807</idno>
+            <idno type="STC">Wing R2164</idno>
+            <idno type="STC">ESTC R36795</idno>
+            <idno type="EEBO-CITATION">16016681</idno>
+            <idno type="OCLC">ocm 16016681</idno>
+            <idno type="VID">104779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen at White-Hall, on the 28th of December, 1690 by George Royse ... ; printed by the King's special command.</title>
+                  <author>Royse, George, 1654 or 5-1708.</author>
+               </titleStmt>
+               <extent>[4], 25, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title page reads: Dr. Royse's sermon preach'd before the King and Queen, December 28, 1690.</note>
+                  <note>Advertisement: [2] p. at end.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Epistles of John, 1st, V, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:104779:1"/>
+            <pb facs="tcp:104779:1" rendition="simple:additions"/>
+            <p>Dr. <hi>ROYSE</hi>'s SERMON Preach'd before the King and Queen, <hi>December</hi> 28. 1690.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:104779:2" rendition="simple:additions"/>
+            <pb facs="tcp:104779:2"/>
+            <p>A SERMON Preach'd before the King and Queen, AT WHITE-HALL, ON The 28th of <hi>December,</hi> 1690.</p>
+            <p>By <hi>GEORGE ROYSE,</hi> D. D. Fellow of <hi>Oriel</hi> College in <hi>Oxon:</hi> And Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>Printed by the King's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Crouch</hi> at the Corner of <hi>Popes-Head-Alley,</hi> over-againſt the Royal Exchange. 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:104779:3"/>
+            <pb n="1" facs="tcp:104779:3"/>
+            <head>A SERMON Preached before the King and Queen.</head>
+            <epigraph>
+               <bibl>1 St. JOHN, chap. v. And the latter part of the Third Verſe.</bibl>
+               <q>— <hi>And his Commandments are not grievous.</hi>
+               </q>
+            </epigraph>
+            <p>THE Words having no depen<g ref="char:EOLhyphen"/>dance on the Context, and con<g ref="char:EOLhyphen"/>taining only a plain ſingle Aſſer<g ref="char:EOLhyphen"/>tion, all that concerns me at pre<g ref="char:EOLhyphen"/>ſent, is to confirm the truth of them, and to recommend the Laws of Religion
+<pb n="2" facs="tcp:104779:4"/>under this Notion, That they are not Grie<g ref="char:EOLhyphen"/>vous.</p>
+            <p>In clearing of which Propoſition, I ſhall obſerve this following method:
+<list>
+                  <item>I. I ſhall enquire in what ſenſe the Laws or Commands of our Superiours may be<g ref="char:EOLhyphen"/>come grievous and burdenſom to the Sub<g ref="char:EOLhyphen"/>jects.</item>
+                  <item>II. I ſhall vindicate the Laws of our Re<g ref="char:EOLhyphen"/>ligion, from the Imputation of thoſe ſuppo<g ref="char:EOLhyphen"/>ſed Grievances and Hardſhips that are caſt upon them.</item>
+                  <item>And, III. I ſhall draw ſome Practical In<g ref="char:EOLhyphen"/>ferences from the whole, to enforce our Obedience to them.</item>
+               </list>
+            </p>
+            <p>As to the former, the Laws of our Su<g ref="char:EOLhyphen"/>periors may become grievous to their Sub<g ref="char:EOLhyphen"/>jects in one or all theſe reſpects:</p>
+            <p>Either, firſt of all, when they offer vio<g ref="char:EOLhyphen"/>lence to our Frame, and croſs the true Ge<g ref="char:EOLhyphen"/>nius and Conſtitution of our Natures.</p>
+            <p>And this no doubt is a very hard Impoſi<g ref="char:EOLhyphen"/>tion, to be obliged to move againſt the ſtream, to row againſt wind and tide, and
+<pb n="3" facs="tcp:104779:4"/>to thwart the true natural tendency of a reaſonable creature.</p>
+            <p>And therefore did the Commands of our great Maſter impoſe any ſuch difficulties upon his Subjects, the complaint then might be ſomewhat juſtifiable, That <hi>his Commands are grievous.</hi>
+            </p>
+            <p>But on the other ſide, if it can be clear'd, that theſe men are quite miſtaken in the right notion of their own frame and make, that man by his natural frame and conſtitu<g ref="char:EOLhyphen"/>tion, is a religious, as well as a reaſonable Creature, and that he has ſtrong propen<g ref="char:EOLhyphen"/>ſions and inclinations to Religious Duties founded in his own nature.</p>
+            <p>If this can be clear'd, I ſay, then it will follow, That his Commandments are not grievous in this ſenſe, but in the Apoſtle's words, our <hi>Reaſonable Service.</hi>
+               <note place="margin">Rom. 12.1.</note>
+            </p>
+            <p>And this ſhall be the Subject of my firſt Propoſition.</p>
+            <p>But, ſecondly, a Law may be call'd grie<g ref="char:EOLhyphen"/>vous and burdenſom, when it carries with it only the will and pleaſure of the Law<g ref="char:EOLhyphen"/>giver, without any good reaſon or excellency to recommend it.</p>
+            <pb n="4" facs="tcp:104779:5"/>
+            <p>For as the Soveraign then does exerciſe an arbitrary and deſpotical Power, when he eſtabliſhes Laws upon no good Reaſons, ſo the Subject is in no better condition than that of a ſlave, when he is forced to obey, without underſtanding the reaſons of it.</p>
+            <p>And this ſeems to be the Caſe of the Jewiſh Law, I mean, thoſe ritual and cere<g ref="char:EOLhyphen"/>monious Obſervances which make up a great part of it.</p>
+            <p>That a man ſhould be forbidden to eat of ſuch and ſuch Meats; that he muſt not ſow <hi>his field with mingled ſeed;</hi> that he muſt not wear a Garment pieced up of <hi>linnen and wool<g ref="char:EOLhyphen"/>len;</hi> that he muſt not <hi>round the corners of his head,</hi>
+               <note place="margin">Lev. 19.27.</note> nor cut his beard of this or that faſhion.</p>
+            <p>All theſe Laws, as they carry with them no inherent goodneſs or excellency to re<g ref="char:EOLhyphen"/>commend them, ſo they look like the arbi<g ref="char:EOLhyphen"/>trary Impoſitions of God Almighty, and the pure reſults of an unaccountable Autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p>And therefore as they ſeem unreaſonable in the eſtabliſhment, ſo no doubt they will be thought no leſs troubleſome in the diſcharge.</p>
+            <pb n="5" facs="tcp:104779:5"/>
+            <p>For tho' it muſt be allowed, that the Will of God is a ſufficient reaſon for our Obe<g ref="char:EOLhyphen"/>dience in all inſtances where he interpoſes his authority, yet when our own reaſon is not convinced of the goodneſs and excel<g ref="char:EOLhyphen"/>lency of what he commands, when it is con<g ref="char:EOLhyphen"/>ſcious of no other obligation, but that which ariſes from his pure ſovereign will and plea<g ref="char:EOLhyphen"/>ſure, in this caſe a man muſt drag on heavi<g ref="char:EOLhyphen"/>ly in his duty, move as it were by whip and ſpur, and pay a forced unnatural ſervice, as ſlaves and flatterers do to their imperious Lords and Tyrants.</p>
+            <p>And conſequently, did the Laws of Chri<g ref="char:EOLhyphen"/>ſtianity carry no other motives for our obe<g ref="char:EOLhyphen"/>dience, but the bare ſtamp of an uncontroul<g ref="char:EOLhyphen"/>able authority, the Objection would be ſtrong and forcible, That his <hi>Commandments are grievous.</hi>
+            </p>
+            <p>But on the other ſide, if it can be de<g ref="char:EOLhyphen"/>monſtrated, that theſe Laws are ſo far from being arbitrary magiſterial Impoſitions, that they ſeem to be the eternal Laws of our own reaſon, then his Commands cannot be ſtiled grievous in this ſenſe; and this ſhall be the Subject of my ſecond Propoſition.</p>
+            <pb n="6" facs="tcp:104779:6"/>
+            <p>But, thirdly, the Laws of our Superiors may become grievous, when they raviſh us of our liberty, and deſtroy the right exerciſe of our natural freedom.</p>
+            <p>For ſince the ſweets of liberty, and the pleaſure of living at large are ſo highly a<g ref="char:EOLhyphen"/>greeable to humane nature, and ſo eagerly purſued by all Mankind; therefore if the Laws of Religion did lay unreaſonable re<g ref="char:EOLhyphen"/>ſtraints upon men, and, like ſo many Fet<g ref="char:EOLhyphen"/>ters and Shackles, did tie them up from the enjoyment of their true liberty, there might be ſome reaſonable pretenſion to allege, That his Commands are grievous.</p>
+            <p>But, on the other ſide, if it can be pro<g ref="char:EOLhyphen"/>ved, that theſe men are miſtaken in the no<g ref="char:EOLhyphen"/>tion of true liberty, that freedom does not conſiſt in an exemption from Laws, or in living up to the ſwinge of their Appetites and Inclinations, if it be certain, that there can be no true Liberty where there is no Law, and that the Laws of the Goſpel are the only Rules that can inſtate us in it, then it will fol<g ref="char:EOLhyphen"/>low beyond contradiction, that his Laws are not grievous in this ſenſe. And this ſhall be the Subject of my third and laſt Propoſition.</p>
+            <pb n="7" facs="tcp:104779:6"/>
+            <p>Having thus far explain'd in what ſenſe the Laws of our Governours may become grievous and offenſive to their Subjects, I come now to my ſecond general Head pro<g ref="char:EOLhyphen"/>poſed, <hi>Viz.</hi>
+            </p>
+            <p>To vindicate the Laws of our Saviour from the Imputation of theſe Grievances; and this I ſhall endeavour by confirming the foremention'd Propoſitions.</p>
+            <p>And firſt of all, the Laws of Chriſtiani<g ref="char:EOLhyphen"/>ty do not contradict the right frame and conſtitution of our Natures.</p>
+            <p>And there needs no other proof of this, but to examine what is the true temper and conſtitution of a reaſonable Creature.</p>
+            <p>For the main reaſon why Religion all along has been repreſented ſo contradicto<g ref="char:EOLhyphen"/>ry to, and irroconcileable with our tem<g ref="char:EOLhyphen"/>pers, can be aſcribed to nothing elſe but to a want of due conſideration, what is the right frame of a Reaſonable Nature.</p>
+            <p>The Atheiſt fancies, that he is the bare reſult of matter and motion, the ſanguine Libertine thinks that he is nothing but the meer compoſition of fleſh and blood; and
+<pb n="8" facs="tcp:104779:7"/>the covetous Miſer imagines, that he is only a temporary Machine and Pageant cut out for the Stage of this preſent World.</p>
+            <p>Now when men ſhall entertain ſuch diſ<g ref="char:EOLhyphen"/>honourable Notions of their own frame, reſolve all into meer body and matter, and own no other inclinations, but the blind impetus and tendency of theſe, no wonder if Religion be thought a flat contradiction to our tempers. But this is rather the repre<g ref="char:EOLhyphen"/>ſentation of a Beaſt, than the true ſtate and account of Humane Nature. And if this be all that goes to make up a reaſon<g ref="char:EOLhyphen"/>able Creature, I can ſee no difference, be<g ref="char:EOLhyphen"/>ſides the ſhape, betwixt the Horſe, that has no underſtanding, and his Rider.</p>
+            <p>For aſſign what difference you pleaſe, and call it by the name of Reaſon, Wit, or Cunning, all theſe are but pedantick Titles, and undiſtinguiſhing Characters, unleſs we will allow ſome nobler attainment, I mean a ſenſe and capacity of exerciſing Religious Duties, to be an Ingredient of his Frame and Conſtitution.</p>
+            <pb n="9" facs="tcp:104779:7"/>
+            <p>For 'tis plain,<note place="margin">Biſhop <hi>Wilk.</hi> Nat. Rel.</note> as for what we call <hi>Reaſon in general, that Beaſts, by a meer natural ſa<g ref="char:EOLhyphen"/>gacity, do make ſuch near approaches to it, that we can hardly diſtinguiſh betwixt the Cun<g ref="char:EOLhyphen"/>ning of a Brute, and the Reaſon of ſome Men.</hi>
+            </p>
+            <p>And therefore as we would aſſert the di<g ref="char:EOLhyphen"/>ſtinction and prerogative of our Natures, we muſt fix upon ſome higher Principles to enoble our Frame, and thoſe will be found no other than the Principles of Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>For it muſt be allowed on all hands, that thoſe are the true Principles of a rea<g ref="char:EOLhyphen"/>ſonable Nature, that do really diſtinguiſh it from all other creatures. And ſince to be capable of receiving divine impreſſions, and to pay a rational regard to the Laws of our Ma<g ref="char:EOLhyphen"/>ker, are the peculiar priviledges of our na<g ref="char:EOLhyphen"/>tures, that make the true difference be<g ref="char:EOLhyphen"/>twixt us and the reſt of the parts of the vi<g ref="char:EOLhyphen"/>ſible World; therefore the right frame and conſtitution of a man does conſiſt in this, that he is a ſubject fitted for the exerciſe of Religion.</p>
+            <pb n="10" facs="tcp:104779:8"/>
+            <p>'Tis true indeed, we uſually aſcribe the difference betwixt us and other Creatures to our Reaſon or Underſtanding; but this is but another name for Religion.</p>
+            <p>For to ſpeak plainly, Reaſon is nothing elſe, but the clear principles of good and evil, truth and falſhood, or elſe the rational conſequences and concluſions that are drawn from them.</p>
+            <p>And therefore the Principles of Religion are no other than the Principles of Reaſon, as ſhall be ſhewn hereafter.</p>
+            <p>And conſequently, to ſay a man is natu<g ref="char:EOLhyphen"/>rally born a reaſonable creature, is the ſame in effect as to ſay, that he is naturally a reli<g ref="char:EOLhyphen"/>gious creature too, becauſe the right exer<g ref="char:EOLhyphen"/>ciſe of his reaſon does conſiſt in underſtand<g ref="char:EOLhyphen"/>ing and living up to thoſe Laws of Religion, that are laid upon him, and that we may not fancy this a more imaginary notion, do but conſider, what ſtrong propenſions and inclinations there are in humane nature to religious duties, of which there can be no account given, unleſs we reſolve them into the natural frame and temper of our minds. 'Tis from hence ſprings that invincible incli<g ref="char:EOLhyphen"/>nation
+<pb n="11" facs="tcp:104779:8"/>to religious Worſhip which is ſo no<g ref="char:EOLhyphen"/>torious and viſible in the World, that they choſe rather to worſhip Stocks and Stones, than to be wanting in that ſervice to which their natures ſo ſtrongly prompted and in<g ref="char:EOLhyphen"/>clined them.</p>
+            <p>'Tis from the ſame principle that the Laws of Juſtice and Honeſty have ſo far poſſeſſed and over-ruled the minds of men, that they have made choice rather to expire in the obſervance of them, than to ſurvive their innocence and integrity by tranſgreſ<g ref="char:EOLhyphen"/>ſing them. All which ſuppoſes, that man by his natural frame and conſtitution is powerfully determin'd to the exerciſe of thoſe Religious Duties which God and Na<g ref="char:EOLhyphen"/>ture have impoſed upon him, and therefore the Atheiſt may as well ſay, that Hunger and Thirſt are no natural Inclinations of the Body, as that the Laws of Religion are for<g ref="char:EOLhyphen"/>ced and unnatural to the Mind.</p>
+            <p>And what we aſſert in general, will be found no leſs true, ſhould we deſcend to the particular Laws of the Goſpel: for there are but two things, that ſeem more eſpecial<g ref="char:EOLhyphen"/>ly to grate upon humane nature; the one
+<pb n="12" facs="tcp:104779:9"/>is the ſubduing our Luſts and Paſſions, which the Scripture expreſſes under the hard terms of pulling out right Eyes,<note place="margin">Matth. 5.29.</note> and plucking off right Hands. And the other is, the ſacrifi<g ref="char:EOLhyphen"/>cing our Lives to the intereſt of Religion. But neither of theſe will appear a violence to our temper, if we view things in their true light.</p>
+            <p>As to the former, the ſubduing our Luſts and Paſſions, this is nothing elſe but that regular order and oeconomy which God has eſtabliſhed in the frame of man, that reaſon ſhould have the aſcendant and government over our paſſions, and that as the Mind is a ſuperior principle to the Body, ſo it ſhould exerciſe a peculiar Empire and Dominion over the ſeveral inclinations of it, and there<g ref="char:EOLhyphen"/>fore this is ſo far from being a contradiction to humane nature, that 'tis the true natural frame and ſtate of it; for in effect, 'tis no more than to ſay, that the Man ſhould rule over the Beaſt.</p>
+            <p>And as for the other, the ſacrificing our Lives to our belief and perſwaſion, 'tis no more, than what the wiſeſt Heathens have taught, and the beſt have practiſed.</p>
+            <pb n="13" facs="tcp:104779:9"/>
+            <p>'Tis true indeed, this ſeems to croſs that great Principle of Self-love and Self-preſer<g ref="char:EOLhyphen"/>vation, which is ſo cloſely interwoven with our natures. But then it muſt be conſi<g ref="char:EOLhyphen"/>der'd, that Self-love and Self-preſervation, tho' they are the ſupreme Law of other Creatures, that have no higher Principles to ſteer by, yet in a reaſonable nature they lye always under the regulation and conduct of a ſuperior Principle, the Mind.</p>
+            <p>And ſince the Mind of Man is the no<g ref="char:EOLhyphen"/>bler part, and more properly ſtiled the Man, therefore 'tis a greater violence to a reaſonable creature to ſacrifice the belief and perſwaſion of his Mind, than to offer up his Body a ſacrifice to that: ſo that upon the whole matter it appears, that the Principles of Religion are ſo far from croſſing the true genius and conſtitution of our nature, that they ſeem rather highly ſuited and agreeable to it.</p>
+            <p>And this will appear from the ſecond Propoſition, <hi>viz.</hi>
+            </p>
+            <p>That the Laws of Religion are no Arbi<g ref="char:EOLhyphen"/>trary Impoſitions of God Almighty, but won<g ref="char:EOLhyphen"/>derfully accommodated to the reaſon of Mankind.</p>
+            <pb n="14" facs="tcp:104779:10"/>
+            <p>Had God Almighty never interpoſed his Authority in enforcing theſe Laws upon us, yet ſtill they would have approved them<g ref="char:EOLhyphen"/>ſelves to the reaſon of Mankind as wholſom rules and proviſions at leaſt, ſuch as are ad<g ref="char:EOLhyphen"/>mirably fitted to the ſtate of humane na<g ref="char:EOLhyphen"/>ture. The Principles of Juſtice, Honeſty and Gratitude do bear ſuch a congruity with our Reaſon, that they look rather like the Eternal Laws of our own Natures, than the Magiſterial Decrees of our Lord and Maſter. Whether they are naturally ſtampt upon the mind, or do grow up rather by the exerciſe of our own reaſon and diſcre<g ref="char:EOLhyphen"/>tion, has been matter of diſpute amongſt ſome: but both of them ſuppoſe, that they are the natural reſults and genuine dictates of our Mind and Reaſon. And if we may gueſs at the reaſon of Mankind by the un<g ref="char:EOLhyphen"/>alterable conſent and approbation of the wiſeſt men, this will amount to a very fair proof, that the Laws of Religion are nothing elſe but the common Principles of our own Reaſon: for 'tis plain, there is ſcarce any Government in the World, but what has approved of the matter of theſe Laws, by
+<pb n="15" facs="tcp:104779:10"/>incorporating them into their reſpective Po<g ref="char:EOLhyphen"/>lities, and eſtabliſhing them as a part of the Civil Conſtitution. And the more any State have emproved their Reaſon, and ci<g ref="char:EOLhyphen"/>vilized their Tempers, the higher in propor<g ref="char:EOLhyphen"/>tion they have advanced the Principles of Religion, as particularly under the <hi>Roman</hi> Government.</p>
+            <p>Now 'tis altogether unaccountable how theſe religious Rules ſhould meet with ſuch a general eſtabliſhment, unleſs they did ap<g ref="char:EOLhyphen"/>prove themſelves to the general reaſon of Mankind. To Worſhip a Supreme Being, to be ſober and temperate as to our ſelves, and to be juſt and honeſt to our neigh<g ref="char:EOLhyphen"/>bour, are the main ſubſtance of what our Saviour commands, and yet all theſe we know have had the good luck to meet with a favourable ſuffrage and entertainment e<g ref="char:EOLhyphen"/>ven from thoſe that never diſcern'd any ſtamp of Divine Authority upon them.</p>
+            <p>But how the whole World ſhould con<g ref="char:EOLhyphen"/>ſpire in the approbation of theſe Laws, can<g ref="char:EOLhyphen"/>not well be accounted for, unleſs we own, they have a ſtrong foundation in Humane e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on.</p>
+            <pb n="16" facs="tcp:104779:11"/>
+            <p>The Atheiſt indeed tells us, that theſe are the bare poſitive Decrees and arbitrary Conſtitutions of the Civil Power, but then at the ſame time he can't explain, how theſe ſhould come to be the publick Conſtitu<g ref="char:EOLhyphen"/>tions of ſo many different Ages and Coun<g ref="char:EOLhyphen"/>tries, unleſs we allow that the beſt reaſon of all Nations and Times have approved the great excellency and reaſonableneſs of them.</p>
+            <p>And this ſhews, that theſe Laws are eternally and intrinſically good in them<g ref="char:EOLhyphen"/>ſelves antecedently to any poſitive Con<g ref="char:EOLhyphen"/>ſtitution whatever, becauſe the general re<g ref="char:EOLhyphen"/>ception of them in the World can be a<g ref="char:EOLhyphen"/>ſcribed to nothing elſe, but to that inhe<g ref="char:EOLhyphen"/>rent goodneſs and excellency that recom<g ref="char:EOLhyphen"/>mended them.</p>
+            <p>There is one Objection indeed againſt what I have urged, <hi>viz.</hi> That there have been ſeveral Governments in the World, that had ſo little ſenſe of theſe Laws, as not only to approve but to reward thoſe very Vices, that carry a flat contradiction to them, and conſequently there is not that rea<g ref="char:EOLhyphen"/>ſon and excellency to be found in thoſe Laws, for which we are pleading.</p>
+            <pb n="17" facs="tcp:104779:11"/>
+            <p>But this is no fair way of concluding what is the beſt ſenſe and reaſon of Man<g ref="char:EOLhyphen"/>kind, by the particular corruption and dege<g ref="char:EOLhyphen"/>neracy of the worſt of men.</p>
+            <p>Should there be ſeveral monſtrous Births produced in the World, no one I hope would conclude this to be the regular ſhape and proportion of a man, but an accidental derivation from it.</p>
+            <p>In all theſe caſes we muſt try things rather by the general conſent and ſtandard, than by any particular exceptions to the contrary, for there may be Monſters in Morality and Religion too as well as in Nature, but nei<g ref="char:EOLhyphen"/>ther of them do conclude againſt the unal<g ref="char:EOLhyphen"/>terable Laws of Nature and Reaſon.</p>
+            <p>And, that we may diſcern further the Reaſon and Excellency of theſe Laws, I ſhall ſhew in the third and laſt place,</p>
+            <p>That the Laws of Religion are not ſuch Fetters and Shackles upon Humane Na<g ref="char:EOLhyphen"/>ture as to deſtroy its true Liberty and Free<g ref="char:EOLhyphen"/>dom.</p>
+            <pb n="18" facs="tcp:104779:12"/>
+            <p>That Liberty does conſiſt in an exemp<g ref="char:EOLhyphen"/>tion and freedom from Laws, is a Doctrine as falſe as 'tis popular.</p>
+            <p>For, to ſpeak properly, a Law in gene<g ref="char:EOLhyphen"/>ral, is not ſo much a tye and confinement, as the direction of a reaſonable creature, and it ſerves rather to maintain and enlarge, than to deſtroy our freedom.</p>
+            <p>And this is true, whether we reſpect ei<g ref="char:EOLhyphen"/>ther our Civil Liberties, as we are Members of a Government, or elſe the Inward Li<g ref="char:EOLhyphen"/>berty and Freedom of our Minds. As to our Civil Liberties, 'tis certain what <hi>Tully</hi> affirms, the Laws are <hi>Fundamentum Liberta<g ref="char:EOLhyphen"/>tis,</hi> the Foundation and Spring of all Civil Liberty, and in all Governments whatever, where there is no Law, there is no Freedom. For Civil Liberty is nothing but a freedom from the Violence and Reſtraint of other Men; and this can never be enjoy'd, where every one ſhall be permitted to live at his own ſwinge and pleaſure, for then to be ſure I ſhall be ſoon raviſh'd of my Liber<g ref="char:EOLhyphen"/>ty, where every one is left free to in<g ref="char:EOLhyphen"/>vade it.</p>
+            <pb n="19" facs="tcp:104779:12"/>
+            <p>And as our Civil Liberties are rather pre<g ref="char:EOLhyphen"/>ſerved than oppreſſed by Humane Laws, ſo the Inward Freedom of our Minds, is far more advanced, than impaired by the Laws of Religion: For the true Freedom does not conſiſt in an abſolute indifferency, without any regard to good or evil, as ſome imagine.</p>
+            <p>God and the good Angels are the freeſt Agents in the World, and yet they are not free to do evil, and when we our ſelves come to be tranſlated to the ſame happy ſtate, we ſhall no longer be ſo in<g ref="char:EOLhyphen"/>different to either: ſuch an indifferency of the Will to good or evil, is rather an im<g ref="char:EOLhyphen"/>perfection of our Natures, or, at beſt, but a relative Perfection accommodated to our preſent ſtate, and ſerving the ends of our probation here, but the true perfect Li<g ref="char:EOLhyphen"/>berty does conſiſt in acting up unalterably to the Laws of our beſt Reaſon.</p>
+            <p>For the clearing of which, we may con<g ref="char:EOLhyphen"/>ſider, that Liberty is nothing elſe but a Power to act thus or thus, according as our beſt Reaſon ſhall determine; and there<g ref="char:EOLhyphen"/>fore as the true Liberty is founded in Rea<g ref="char:EOLhyphen"/>ſon,
+<pb n="20" facs="tcp:104779:13"/>and lodged only in reaſonable Crea<g ref="char:EOLhyphen"/>tures, ſo the right exerciſe of it does con<g ref="char:EOLhyphen"/>ſiſt in living up to the Principles of Rea<g ref="char:EOLhyphen"/>ſon; and conſequently, to chuſe Evil, is as great an abuſe of true Liberty, as 'tis a want of Reaſon and Diſcretion.</p>
+            <p>From whence we may conclude, the ab<g ref="char:EOLhyphen"/>ſurdity of that Poſition, That there can be no Freedom where a man is determin'd by Laws. Now this is the ſame thing as to affirm, That wiſe Men cannot be free, becauſe they are determin'd by wiſe Coun<g ref="char:EOLhyphen"/>cils and Advices; and at this rate, none but Fools and Madmen would be free, be<g ref="char:EOLhyphen"/>cauſe none but theſe refuſe to be deter<g ref="char:EOLhyphen"/>min'd by wiſe Propoſals, and this is ſuch an odd ſort of Liberty, that no man in his wits can ever plead or contend for.</p>
+            <p>It being allow'd then, that 'tis no a<g ref="char:EOLhyphen"/>bridgment of true Freedom to be deter<g ref="char:EOLhyphen"/>min'd by wholſom Laws, all that remains is to ſhew, that the Laws of Religion do rather maintain our Liberty than deſtroy it. And the reaſon of this is plain and ob<g ref="char:EOLhyphen"/>vious; becauſe theſe Laws have a natural tendency to free Mankind from the Domi<g ref="char:EOLhyphen"/>nion
+<pb n="21" facs="tcp:104779:13"/>of thoſe Luſts and Paſſions, which put the World into a true condition of ſlave<g ref="char:EOLhyphen"/>ry: for ſlavery, as it relates to the mind, is nothing elſe but an unnatural ſubjection of it to the dominion of ſin, by which 'tis put quite out of its own power, and hindred in the free exerciſe of its rea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>And this is no other Notion, but what <hi>Tully</hi> and the wiſer Heathens have all along taught the World, and therefore he de<g ref="char:EOLhyphen"/>ſcribes it thus, <hi>Obedientia fracti &amp; abjecti animi arbitrio carentis ſuo:</hi> from whence he concludes, that all <hi>wicked men are ſlaves,</hi> becauſe being bound over to work drudge<g ref="char:EOLhyphen"/>ry to their Luſts, they have no longer any commands over themſelves, nor power to think or act freely.</p>
+            <p>And the Scripture does every where reckon them as ſlaves, by ſtiling them, <hi>the ſervants of ſin, ſold under ſin,<note place="margin">Rom. 6.16, 17. Hom. 7.14. <hi>v.</hi> 23.</note> in captivity under the law of ſin.</hi> And this of all others is the greateſt oppreſſion of our Liberty, that can be imagin'd; for our Luſts and Paſſions were born ſlaves to our Reaſon and Underſtanding, and therefore to be ſub<g ref="char:EOLhyphen"/>jected
+<pb n="22" facs="tcp:104779:14"/>to the dominion of theſe, is to be a ſlave to thoſe that were born ſlaves to us, and he that fancies this to be a true manly Liberty, let him have <hi>his ear bored through,</hi> and be a ſlave for ever.</p>
+            <p>And if ſubjection to Luſt and Paſſion be the true ſtate of Slavery, then conſequent<g ref="char:EOLhyphen"/>ly the Laws of Religion, that teach us to manage and govern theſe, are the beſt Fence and Security of our Freedom. Hence the Religion of the Goſpel is ſtiled the <hi>perfect Law of Liberty,</hi> hence God's Service is call'd <hi>perfect Freedom,</hi> and good men only are honour'd with the Character of <hi>ſons</hi> and <hi>free men.</hi>
+            </p>
+            <p>In ſhort, this is the only true manly Liberty that I know of in the World, I mean that whereby the mind is ſet free from the dominion of our Paſſions, diſ<g ref="char:EOLhyphen"/>engaged from the power of Luſt, and re<g ref="char:EOLhyphen"/>ſtored to an empire over it ſelf, which the Sword can't invade, nor the Tyrant reach. This is the Liberty and Frecdom of God, Angels, and good men made perfect, which does not conſiſt in an exemption from Laws, but in living up unchangeably and
+<pb n="23" facs="tcp:104779:14"/>unalterably to them. And thus much for the third and laſt Propoſition, That his Commands are not grievous in this ſenſe, by deſtroying our true Liberty and Free<g ref="char:EOLhyphen"/>dom.</p>
+            <p>I come now, by way of Concluſion, to draw ſome Practical Inferences from the ſe<g ref="char:EOLhyphen"/>veral Heads.</p>
+            <p>And from the firſt we may conclude, That if the Commands of our Religion be ſo highly agreeable to our Frame and Con<g ref="char:EOLhyphen"/>ſtitution, therefore 'tis but highly juſt and reaſonable to live up to the Laws of our own frame. There is no Creature in the World, but what is govern'd by the Laws of its own Nature, the Beaſts by a principle of ſenſe, and all other Bodies by the unchan<g ref="char:EOLhyphen"/>geable Laws of Matter and Motion. And what a ſhame and reproach is this to Hu<g ref="char:EOLhyphen"/>mane Nature, that we alone, who under<g ref="char:EOLhyphen"/>ſtand the Laws of our Frame, ſhould be the only perſons that trangreſs them.</p>
+            <pb n="24" facs="tcp:104779:15"/>
+            <p>From the ſecond we may conclude, That if the Principles of Religion be nothing elſe but the common Principles of our own Reaſon, therefore as we would maintain the Reputation of our Underſtandings, ſo we ſhould act up to the true Dictates of them; and ſince the Commands of Re<g ref="char:EOLhyphen"/>ligion are ſo highly Reaſonable and Ex<g ref="char:EOLhyphen"/>cellent in themſelves, conſequently our Minds ſhould be affected as well with the Goodneſs and Excellency of thoſe Laws, as aw'd by that Authority which eſtabliſh'd them.</p>
+            <p>From the third and laſt we may con<g ref="char:EOLhyphen"/>clude, That if the Laws of the Goſpel do rather advance than impair our Liberty, therefore we ſhould no longer reflect upon the Goodneſs and Juſtice of God Almigh<g ref="char:EOLhyphen"/>ty; as if he had impoſed ſo many Fet<g ref="char:EOLhyphen"/>ters and Shackles upon our Natures, but rather Adore, Worſhip, and give Praiſe unto him for affording us that perfect Law of Liberty, which alone can ſet us free.</p>
+            <pb n="25" facs="tcp:104779:15"/>
+            <p>And ſince a true manly rational Liberty does conſiſt only in a freedom from the Power and Dominion of our Vices, let's all henceforth ſhake off thoſe Clogs and Ties of Luſt and Paſſion, which have hi<g ref="char:EOLhyphen"/>therto not only beſet, but enſlaved us. And then as we ſhall find our ſelves free from the ſlavery of theſe, ſo we ſhall have no reaſon to complain, That his <hi>Command<g ref="char:EOLhyphen"/>ments are grievous.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104779:16"/>
+            <pb facs="tcp:104779:16"/>
+            <head>
+               <hi>BOOKS</hi> Printed for and Sold by <hi>Samuel Crouch,</hi> at the Corner of <hi>Pope's-Head-Ally</hi> next <hi>Cornhil.</hi>
+            </head>
+            <list>
+               <head>FOLIO.</head>
+               <item>THE Hiſtory of <hi>Scotland,</hi> written in Latine by <hi>Geo. Buchanan.</hi> Faithfully rendred into <hi>Engliſh.</hi>
+               </item>
+               <item>The Hiſtory of the Life, Reign and Death of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> II. King of <hi>England</hi> and Lord of <hi>Ireland;</hi> with the Riſe and Fall of his great Favourites, <hi>Gaveſton</hi> and the <hi>Spencers.</hi> Written by <hi>E.F.</hi> in the Year 1627. and Printed <hi>verbatim</hi> from the Original.</item>
+               <item>The Hiſtory of the Affairs of <hi>Europe</hi> in this pre<g ref="char:EOLhyphen"/>ſent Age, but more particularly of the Republick of <hi>Venice.</hi> Written in <hi>Italian</hi> by <hi>Battiſta Nani,</hi> Cava<g ref="char:EOLhyphen"/>lier and Procurator of St. <hi>Mark.</hi> Engliſhed by Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Honywood,</hi> Knight.</item>
+            </list>
+            <list>
+               <head>Q<g ref="char:V">Ʋ</g>ARTO.</head>
+               <item>A Sermon Preached before the Lord Mayor and Court of Aldermen at <hi>Guild-hall Chappel,</hi> upon <hi>Good Friday, March</hi> 29. 1689. By <hi>George Royſe,</hi> D.D. Fellow of <hi>Oriel</hi> Colledge in <hi>Oxford,</hi> and Chaplain in Ordinary to Their Majeſties.</item>
+               <item>A Sermon Preached before the Deputy-Governour and the Company of Merchants trading to the <hi>Le<g ref="char:EOLhyphen"/>vant</hi> Seas, at St. <hi>Bartholomew Exchange, May</hi> 1. 1689. By <hi>Edward Smith,</hi> A.M. Fellow of <hi>Trinity Colledge</hi> near <hi>Dublin,</hi> and Preacher to the Factory at <hi>Smyrna.</hi>
+               </item>
+               <item>The True Intereſts of the Princes of <hi>Europe,</hi> in the preſent State of Affairs.</item>
+               <item>The <hi>A-la-Mode</hi> Secretary, or Practical Penman. A New Copy-Book.</item>
+               <pb facs="tcp:104779:17"/>
+               <item>Youth's Introduction to Trade. Both by <hi>John Ayres,</hi> Maſter of the Writing School near St. <hi>Pauls.</hi>
+               </item>
+            </list>
+            <list>
+               <head>OCTAVO.</head>
+               <item>Obſervations upon the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces</hi> of the <hi>Netherlands.</hi> By Sir <hi>William Temple</hi> of <hi>Shene</hi> in the County of <hi>Surry,</hi> Baronet, Embaſſadour at the <hi>Hague</hi> and at <hi>Aix-la-Chapelle</hi> in the Year 1668.</item>
+               <item>
+                  <hi>Britannia Languens:</hi> Or a Diſcourſe of Trade. Shewing, That the Preſent Management of Trade in <hi>England,</hi> is the true Reaſon of the Decay of our Ma<g ref="char:EOLhyphen"/>nufactures, and the late great fall of Land-Rents, and the Increaſe of Trade in the Method it now ſtands, muſt proportionably decay <hi>England.</hi> Hum<g ref="char:EOLhyphen"/>bly offer'd to the Conſideration of the Parliament.</item>
+               <item>
+                  <hi>Cardan</hi> his three Books of Conſolation, Engliſhed. Of great uſe in theſe Times.</item>
+               <item>The Art of Painting in Oyl. Wherein is included each particular Circumſtance relating to that Art and Myſtery, containing the beſt and moſt approved Rules, for Preparing, Mixing, and Working, of Oyl Colours.</item>
+               <item>Chriſtianity in ſhort; Or the Way to be a Good Chriſtian. Recommended to the uſe of ſuch as want either time or capacity for reading longer or learneder Diſcourſes By <hi>C. Ellis,</hi> Author of the <hi>Gentile Sinner.</hi>
+               </item>
+               <item>☞ The Young Clerk Compleated, being a Royal Sueet of Paper full of variety of the Clerks Hands, with breaks off the Court Letters, and 166 Words abbrevia<g ref="char:EOLhyphen"/>ted in Court Hand; and fairly Written at length in Secretary. By <hi>John Ayres</hi> at the <hi>Hand and Pen</hi> in St. <hi>Paul</hi>'s Church-yard. Price 2 s. 6 s. So contriv'd as to be cut in parts, and Roll'd up in a ſmall Pen-caſe. Sold (with the reſt of the Author's Works) by <hi>S. Crouch</hi> at the corner of <hi>Popes-head Ally</hi> in <hi>Cornhil.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
